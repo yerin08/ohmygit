@@ -23,3 +23,16 @@ git commit -m "Add another line"
 ```bash
 git add form2_really_final.txt
 git commit -m "Add another line to form2_really_final.txt"
+
+---
+
+
+## 문제 3 - Enter the time machine
+### 답
+`git init` 명령어를 사용해 새로운 Git 저장소를 초기화하고 타임머신을 켜기.
+
+### 명령어
+```bash
+git init
+
+
