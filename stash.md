@@ -8,4 +8,5 @@ git stash pop
 git stash list;
 git stash clear; # drop one by "git stash drop <number>"
 
-4. 
+4. Branch from stash
+git stash branch refs/branch 0
