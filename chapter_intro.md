@@ -46,3 +46,22 @@ git init
    ```bash
    git init
 
+
+---
+
+## 문제 5 - Your first commit
+### 답
+`glass` 파일을 커밋하고 수정하기
+
+### 풀이 방법
+1. 터미널에 아래 명령 입력
+   ```bash
+   git add glass
+   git commit -m "First commit"
+
+2. glass 파일을 클릭하여 내용을 수정 후 저장
+
+3. 명령 입력
+git add glass
+git commit -m "Second commit after change"
+
