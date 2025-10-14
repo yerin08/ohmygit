@@ -35,4 +35,14 @@ git commit -m "Add another line to form2_really_final.txt"
 ```bash
 git init
 
+---
+
+## 문제 4 - The command line
+### 답
+명령어 이용해서 git 초기화
+
+### 풀이 방법
+1. 화면 하단 보라색 터미널에 다음 명령 입력  
+   ```bash
+   git init
 
