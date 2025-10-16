@@ -3,4 +3,9 @@
 ## Tags
 
 ### 1. Creating tags
-git tag feature-list
+git tag version 1
+
+### 2. Removing tags
+git tag -d v1
+git tag -d v2
+git tag -d v3
