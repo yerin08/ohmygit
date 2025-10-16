@@ -18,7 +18,7 @@
 
 ### 3. 새로운 브랜치로 이동 git switch happy
 
-### 4. 사건이 발생하지 않도록 파일 수정 및 커밋 git add .;git commit
+### 4. 사건이 발생하지 않도록 파일 수정 및 커밋 git add .; git commit
 
 ## 3. Creating branches
 
@@ -29,3 +29,13 @@
 ### 3. 생일파티 위치로 이동 git checkout
 
 ### 4. 생일파티 브랜치 생성 git branch birthday
+
+## 4. Branches grow with you!
+
+### 1. birthday 브랜치로 이동 git switch birthday
+
+### 2. 내용 수정 후 커밋 git add .; git commit
+
+### 3. concert 브랜치로 이동 git switch concert
+
+### 4. 내용 수정 후 커밋 git add .; git commit
