@@ -1,13 +1,17 @@
 # CHAPTER: INTRO
+- 모든 문제 풀이 및 명령어 최종 정리 완료.
+- 김재민 (20216607)
 
 ---
+
+```bash
 
 ## 문제 1 - Living dangerously
 ### 답
 `form.txt` 파일을 열어 문구를 쓰고 변경사항 커밋하기.
 
 ### 명령어 
-```bash
+
 echo "win" >> form.txt
 git add form.txt
 git commit -m "Add another line"
