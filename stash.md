@@ -1,17 +1,21 @@
-1. Stashing
+# Git & Github 게임 답안지
+
+## Stash
+
+### 1. Stashing
 git stash push
 
-2. Pop from Stash
+### 2. Pop from Stash
 git stash pop
 
-3. Clear the stash
+### 3. Clear the stash
 git stash list;
 git stash clear; // drop one by "git stash drop <number>"
 
-4. Branch from stash
+### 4. Branch from stash
 git stash branch refs/branch 0
 
-5. Merging popped stash
+### 5. Merging popped stash
 git stash pop
 // 충돌 해결
 git add .
